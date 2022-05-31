@@ -93,16 +93,16 @@ Mathematica
 2. Introduction to Machine Learning by Etienne Bernard, 2022:
     - https://www.wolfram.com/language/introduction-machine-learning/
 
-3. Elementary Introduction to Wolfram Language by Stephen Wolfram:
+3. Beginning Mathematica and Wolfram for Data Science: Applications in Data Analysis, Machine Learning, and Neural Networks by Jalil Villalobos Alva, 2021
+
+4. Elementary Introduction to Wolfram Language by Stephen Wolfram:
     - https://www.wolfram.com/language/elementary-introduction/2nd-ed/
 
-4. Inteligência artificial: avanços e tendências by Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri, USP, Instituto de Estudos Avançados, 2021
+5. Inteligência artificial: avanços e tendências by Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri, USP, Instituto de Estudos Avançados, 2021
     - https://jornal.usp.br/cultura/inteligencia-artificial-ganha-e-book-multidisciplinar/
 
-5. Hands-on Start to Wolfram Mathematica and
+6. Hands-on Start to Wolfram Mathematica and
 Programming with the Wolfram Language by Cliﬀ Hastings, Kelvin Mischo, Michael Morrison, Third Edition, Wolfram Media, 2020
 
-6. Code: The Hidden Language of Computer Hardware and Sofware by Charles Petzold, Microsoft
+7. Code: The Hidden Language of Computer Hardware and Sofware by Charles Petzold, Microsoft
 Press, 2000
-
-7. Beginning Mathematica and Wolfram for Data Science: Applications in Data Analysis, Machine Learning, and Neural Networks by Jalil Villalobos Alva, 2021
