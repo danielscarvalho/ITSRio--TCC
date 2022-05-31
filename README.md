@@ -20,6 +20,11 @@ Multiparadigm Data Science:
 <img src="https://www.wolfram.com/wolfram-u/img/courses/dat103-course.png" width="600px">
 <img src="https://content.wolfram.com/uploads/sites/39/2019/09/mpds-workflow.png" width="600px">
 
+Metodologia científica:
+
+<img src="img/metodologia-cientifica0.jpg" width="600px">
+<img src="img/metodologia-cientifica1.jpg" width="600px">
+
 # Cursos online:
 
 - https://www.wolfram.com/wolfram-u/multiparadigm-data-science/
