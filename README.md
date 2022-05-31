@@ -27,7 +27,7 @@ Metodologia científica:
 
 # TCC
 
-Principais etapas do TCC
+Principais etapas do TCC com base em ciências dos dados:
 
 1. Estabelecer questão de pesquisa (ASK/QUESTION)
 2. Identificar e obter fontes de dados (GET/WRANGLE)
