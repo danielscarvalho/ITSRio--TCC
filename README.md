@@ -27,7 +27,7 @@ Metodologia científica:
 
 Pesquisa científica:
 
-- Estabelecer hipótese (SME - Subject-matter expert)
+- Resumo do assunto: estabelecer hipótese (SME - Subject-matter expert)
 - Pesquisa bibliográfica
 - Pesquisa experimental (ciências dos dados)
   - Dados
