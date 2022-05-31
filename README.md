@@ -25,6 +25,18 @@ Metodologia científica:
 <img src="img/metodologia-cientifica0.jpg" width="600px">
 <img src="img/metodologia-cientifica1.jpg" width="600px">
 
+# TCC
+
+Principais etapas do TCC
+
+1. Estabelecer questão de pesquisa (ASK/QUESTION)
+2. Identificar e obter fontes de dados (GET/WRANGLE)
+3. Combinar e limpar dados (EXPLORE/EXPLORE)
+4. Modelagem - algoritmos e math/estatistica (MODEL/ANALYZE)
+5. Visualização e reportar (COMMUNICATE/COMMUNICATE)
+
+Cronograma:
+
 # Cursos online:
 
 - https://www.wolfram.com/wolfram-u/multiparadigm-data-science/
