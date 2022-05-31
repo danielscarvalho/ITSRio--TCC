@@ -62,9 +62,12 @@ Esforço no processo de Ciências dos Dados:<br>
 &emsp;◼ 80% do trabalho: Questionar (escopo), Garimpar dados e Explorar<br>
 &emsp;◼ 20% do trabalho: Modelagem (IA, ML) e Comunicação<br>
 
-# Cursos online:
+# Cursos online - treinamento:
 
+Multiparadigm Data Science (4 horas)
 - https://www.wolfram.com/wolfram-u/multiparadigm-data-science/
+
+The Multiparadigm Data Science Workflow (3 horas)
 - https://www.wolfram.com/wolfram-u/catalog/dat103/
 
 # Bibliografia:
