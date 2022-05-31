@@ -29,10 +29,10 @@ Metodologia científica:
 
 Principais etapas do TCC com base em ciências dos dados (computação):
 
-1. Estabelecer questão de pesquisa (ASK/QUESTION)
+1. Estabelecer questão de pesquisa - estabelecer hipótese (ASK/QUESTION)
 2. Identificar e obter fontes de dados (GET/WRANGLE)
 3. Combinar e limpar dados (EXPLORE/EXPLORE)
-4. Modelagem - algoritmos e IA/ML, math/estatistica (MODEL/ANALYZE)
+4. Modelagem - validar hipótese  - algoritmos e IA/ML, math/estatistica (MODEL/ANALYZE)
 5. Visualização e reportar (COMMUNICATE/COMMUNICATE)
 
 Cronograma:
