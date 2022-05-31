@@ -1,4 +1,4 @@
-# ITSRio--TCC
+# ITSRio-TCC
 ITSRio TCC (Trabalho de Conclusão de Curso) - Computação
 
 Pós-graduação em Direito Digital - ITSRio - UERJ
