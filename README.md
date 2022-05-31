@@ -25,7 +25,7 @@ Metodologia científica:
 <img src="img/metodologia-cientifica0.jpg" width="600px">
 <img src="img/metodologia-cientifica1.jpg" width="600px">
 
-Pesquisa:
+Pesquisa científica:
 
 - Estabelecer hipótese (SME - Subject-matter expert)
 - Pesquisa bibliográfica
