@@ -78,9 +78,6 @@ The Multiparadigm Data Science Workflow (3 horas)
 
 Extra (opcional):
 
-Multiparadigm Data Science (4 horas)
-- https://www.wolfram.com/wolfram-u/multiparadigm-data-science/
-
 An Elementary Introduction to the Wolfram Language (6 horas)
 - https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/
 
