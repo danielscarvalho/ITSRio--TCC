@@ -76,6 +76,9 @@ The Multiparadigm Data Science Workflow (3 horas)
 Wolfram Cloud
   - https://www.wolframcloud.com/ 
 
+Wolfram Language
+  - https://www.wolfram.com/language/
+
 Mathematica
   - https://www.wolfram.com/mathematica/
 
