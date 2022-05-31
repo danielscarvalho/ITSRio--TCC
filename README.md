@@ -8,7 +8,7 @@ Orientação de TCC - Pós-Gratuação
 
 Professores: https://itsrio.org/wp-content/uploads/2021/10/professores-positsuerj_2021.2.pdf
 
-# Processo:
+# Processo
 
 Ciências dos Dados em 5 etapas:
 
@@ -63,7 +63,7 @@ Esforço no processo de Ciências dos Dados:<br>
 &emsp;◼ 80% do trabalho: Questionar (escopo), Garimpar dados e Explorar<br>
 &emsp;◼ 20% do trabalho: Modelagem (IA, ML) e Comunicação<br>
 
-# Cursos online - treinamento:
+# Cursos online - treinamento
 
 Multiparadigm Data Science (4 horas)
 - https://www.wolfram.com/wolfram-u/multiparadigm-data-science/
