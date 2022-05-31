@@ -58,6 +58,10 @@ Cronograma:
 
 <img src="img/cronograma-tcc.png">
 
+Esforço no processo de Ciências dos Dados:
+◼ 80% do trabalho: Questionar (escopo), Garimpar e Explorar
+◼ 20% do trabalho: Modelagem e Comunicação
+
 # Cursos online:
 
 - https://www.wolfram.com/wolfram-u/multiparadigm-data-science/
