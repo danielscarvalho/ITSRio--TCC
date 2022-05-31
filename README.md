@@ -65,7 +65,7 @@ Esforço no processo de Ciências dos Dados:<br>
 &emsp;◼ 80% do trabalho: Questionar (escopo), Garimpar dados e Explorar<br>
 &emsp;◼ 20% do trabalho: Modelagem (IA, ML) e Comunicação<br>
 
-# Cursos online - treinamento
+# Cursos online - Treinamento
 
 What's Cooking: Creating a Data Science Pipeline for Recipe Classification (35 min)
 - https://www.wolfram.com/wolfram-u/catalog/dat004/
@@ -75,6 +75,14 @@ Multiparadigm Data Science (4 horas)
 
 The Multiparadigm Data Science Workflow (3 horas)
 - https://www.wolfram.com/wolfram-u/catalog/dat103/
+
+Extra (opcional):
+
+Multiparadigm Data Science (4 horas)
+- https://www.wolfram.com/wolfram-u/multiparadigm-data-science/
+
+An Elementary Introduction to the Wolfram Language (6 horas)
+- https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/
 
 # Ferramentas
 
