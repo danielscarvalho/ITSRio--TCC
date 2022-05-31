@@ -45,7 +45,7 @@ Principais etapas do TCC com base em ciências dos dados (computação):
 4. Modelagem - validar hipótese  - algoritmos e IA/ML, math/estatistica (MODEL/ANALYZE)
 5. Visualização e reportar (COMMUNICATE/COMMUNICATE)
 
-Cronograma:
+Cronograma (exemplo):
 
 1. 1 semana (7 dias)
     - Estabelecer questão de pesquisa
