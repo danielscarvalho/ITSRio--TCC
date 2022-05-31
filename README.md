@@ -47,10 +47,10 @@ Principais etapas do TCC com base em ciências dos dados (computação):
 Cronograma:
 
 1. 1 semana (7 dias)
-  - Estabelecer questão de pesquisa
-  - Estabelecer hipótese
-  - Definir cronograma
-  - Estudar bibliografia recomendasa (abaixo) 
+&emsp;  - Estabelecer questão de pesquisa
+&emsp;  - Estabelecer hipótese
+&emsp;  - Definir cronograma
+&emsp;  - Estudar bibliografia recomendasa (abaixo) 
 3. 2 semanas (14 dias)
 4. 6 semanas (30 dias)
 5. 2 semanas (14 dias)
