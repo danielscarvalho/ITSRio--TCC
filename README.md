@@ -99,3 +99,5 @@ Programming with the Wolfram Language by Cliﬀ Hastings, Kelvin Mischo, Michael
 
 6. Code: The Hidden Language of Computer Hardware and Sofware by Charles Petzold, Microsoft
 Press, 2000.
+
+7. Beginning Mathematica and Wolfram for Data Science: Applications in Data Analysis, Machine Learning, and Neural Networks by Jalil Villalobos Alva, 2021
