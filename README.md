@@ -12,13 +12,13 @@ Professores: https://itsrio.org/wp-content/uploads/2021/10/professores-positsuer
 
 Ciências dos Dados:
 
-
-
-<img src="https://www.researchgate.net/profile/Marina-Izaki-Gomez/publication/349254448/figure/fig8/AS:990459539226629@1613155364500/Figura-18-Data-Science-Process.png" width="600px">
+<img src="img/Data-Science-Process.png" width="600px">
 
 Multiparadigm Data Science:
+- https://www.mpdatascience.com/MultiparadigmDataScienceBrochure.pdf
 
-
+<img src="https://www.wolfram.com/wolfram-u/img/courses/dat103-course.png" width="600px">
+<img src="https://content.wolfram.com/uploads/sites/39/2019/09/mpds-workflow.png" width="600px">
 
 # Bibliografia:
 
