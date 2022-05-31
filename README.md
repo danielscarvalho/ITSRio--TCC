@@ -25,6 +25,15 @@ Metodologia científica:
 <img src="img/metodologia-cientifica0.jpg" width="600px">
 <img src="img/metodologia-cientifica1.jpg" width="600px">
 
+Pesquisa:
+
+- Estabelecer hipótese (SME - Subject-matter expert)
+- Pesquisa bibliográfica
+- Pesquisa experimental (ciências dos dados)
+  - Dados
+  - Modelagem
+  - Validação da hipótese
+
 # TCC
 
 Principais etapas do TCC com base em ciências dos dados (computação):
