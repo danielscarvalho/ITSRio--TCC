@@ -78,7 +78,9 @@ Wolfram Cloud
 
 Mathematica
   - https://www.wolfram.com/mathematica/
-  
+
+<img src="https://www.wolfram.com/mathematica/img/overview/header-hero.png" width="600px">
+
 # Bibliografia
 
 1. Metodologia Científica by Amado L. Cervo, Pedro A. Bervian, Roberto da Silva
