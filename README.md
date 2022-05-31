@@ -30,9 +30,11 @@ Pesquisa científica:
 
 - Resumo do assunto: estabelecer hipótese (SME - Subject-matter expert)
 - Pesquisa bibliográfica
-- Pesquisa experimental (ciências dos dados)
+- Pesquisa experimental (Ciências dos Dados)
   - Dados
-  - Modelagem
+  - Modelagem matemática/computacional
+      - IA (Inteligência Artificial)
+      - ML (Machine Learning - Aprendizagem de Máquina)
   - Validação da hipótese
 
 # TCC
