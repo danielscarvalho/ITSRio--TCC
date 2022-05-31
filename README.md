@@ -50,7 +50,7 @@ Cronograma:
     - Estabelecer questão de pesquisa
     - Estabelecer hipótese
     - Definir cronograma
-    - Estudar bibliografia recomendasa (abaixo) 
+    - Estudar bibliografia recomendada (abaixo) 
 3. 2 semanas (14 dias)
 4. 6 semanas (30 dias)
 5. 2 semanas (14 dias)
@@ -77,12 +77,11 @@ Esforço no processo de Ciências dos Dados:<br>
 3. Elementary Introduction to Wolfram Language by Stephen Wolfram:
     - https://www.wolfram.com/language/elementary-introduction/2nd-ed/
 
-4. Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri, Inteligência artificial: avanços e tendências,
-USP, Instituto de Estudos Avançados, 2021
+4. Inteligência artificial: avanços e tendências by Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri, USP, Instituto de Estudos Avançados, 2021
     - https://jornal.usp.br/cultura/inteligencia-artificial-ganha-e-book-multidisciplinar/
 
-5. Cliﬀ Hastings, Kelvin Mischo, Michael Morrison, Hands-on Start to Wolfram Mathematica and
-Programming with the Wolfram Language, Third Edition, Wolfram Media, 2020
+5. Hands-on Start to Wolfram Mathematica and
+Programming with the Wolfram Language by Cliﬀ Hastings, Kelvin Mischo, Michael Morrison, Third Edition, Wolfram Media, 2020
 
-6. Charles Petzold, Code: The Hidden Language of Computer Hardware and Sofware, Microsoft
+6. Code: The Hidden Language of Computer Hardware and Sofware by Charles Petzold, Microsoft
 Press, 2000.
