@@ -14,7 +14,8 @@ Ciências dos Dados em 5 etapas:
 
 <img src="img/Data-Science-Process.png" width="600px">
 
-Multiparadigm Data Science:
+Wolfram Multiparadigm Data Science:
+
 - https://www.mpdatascience.com/MultiparadigmDataScienceBrochure.pdf
 
 <img src="https://www.wolfram.com/wolfram-u/img/courses/dat103-course.png" width="600px">
@@ -70,7 +71,15 @@ Multiparadigm Data Science (4 horas)
 The Multiparadigm Data Science Workflow (3 horas)
 - https://www.wolfram.com/wolfram-u/catalog/dat103/
 
-# Bibliografia:
+# Ferramentas
+
+Wolfram Cloud
+  - https://www.wolframcloud.com/ 
+
+Mathematica
+  - https://www.wolfram.com/mathematica/
+  
+# Bibliografia
 
 1. Metodologia Científica by Amado L. Cervo, Pedro A. Bervian, Roberto da Silva
 
