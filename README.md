@@ -59,7 +59,7 @@ Cronograma:
 <img src="img/cronograma-tcc.png">
 
 Esforço no processo de Ciências dos Dados:<br>
-&emsp;◼ 80% do trabalho: Questionar (escopo), Garimpar e Explorar<br>
+&emsp;◼ 80% do trabalho: Questionar (escopo), Garimpar dados e Explorar<br>
 &emsp;◼ 20% do trabalho: Modelagem (IA, ML) e Comunicação<br>
 
 # Cursos online:
