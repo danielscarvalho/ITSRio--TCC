@@ -48,7 +48,7 @@ Cronograma:
 
 1. 1 semana (7 dias)
 2. 2 semanas (14 dias)
-3. 6 semanas (21 dias)
+3. 6 semanas (30 dias)
 4. 2 semanas (14 dias)
 5. 1 semana (7 dias)
 
