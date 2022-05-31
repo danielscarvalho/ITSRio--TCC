@@ -27,6 +27,8 @@ Multiparadigm Data Science:
 
 # Bibliografia:
 
+- Metodologia Científica by Amado L. Cervo, Pedro A. Bervian, Roberto da Silva
+
 Introduction to Machine Learning by Etienne Bernard:
 - https://www.wolfram.com/language/introduction-machine-learning/
 
