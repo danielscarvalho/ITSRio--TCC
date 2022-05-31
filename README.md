@@ -74,7 +74,7 @@ The Multiparadigm Data Science Workflow (3 horas)
 
 1. Metodologia Científica by Amado L. Cervo, Pedro A. Bervian, Roberto da Silva
 
-2. Introduction to Machine Learning by Etienne Bernard:
+2. Introduction to Machine Learning by Etienne Bernard, 2022:
     - https://www.wolfram.com/language/introduction-machine-learning/
 
 3. Elementary Introduction to Wolfram Language by Stephen Wolfram:
