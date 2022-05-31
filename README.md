@@ -32,7 +32,7 @@ Pesquisa científica:
 - Pesquisa bibliográfica
 - Pesquisa experimental (Ciências dos Dados)
   - Dados
-  - Modelagem matemática/computacional
+  - Modelagem matemática/estatística/computacional
       - IA (Inteligência Artificial)
       - ML (Machine Learning - Aprendizagem de Máquina)
   - Validação da hipótese
@@ -44,7 +44,7 @@ Principais etapas do TCC com base em Ciências dos Dados (computação) e a meto
 1. Estabelecer questão de pesquisa - estabelecer hipótese (ASK/QUESTION)
 2. Identificar e obter fontes de dados (GET/WRANGLE)
 3. Combinar e limpar dados (EXPLORE/EXPLORE)
-4. Modelar - validar hipótese - algoritmos e IA (Inteligência Artificial)/ML (Machine Learning - Aprendizagem de Máquina), math/estatistica (MODEL/ANALYZE)
+4. Modelar - validar hipótese - algoritmos e IA/ML, math/estatística (MODEL/ANALYZE)
 5. Visualizar e reportar (COMMUNICATE/COMMUNICATE)
 
 Cronograma (exemplo):
