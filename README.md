@@ -20,6 +20,11 @@ Multiparadigm Data Science:
 <img src="https://www.wolfram.com/wolfram-u/img/courses/dat103-course.png" width="600px">
 <img src="https://content.wolfram.com/uploads/sites/39/2019/09/mpds-workflow.png" width="600px">
 
+# Cursos online:
+
+- https://www.wolfram.com/wolfram-u/multiparadigm-data-science/
+- https://www.wolfram.com/wolfram-u/catalog/dat103/
+
 # Bibliografia:
 
 Introduction to Machine Learning by Etienne Bernard:
