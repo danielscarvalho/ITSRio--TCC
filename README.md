@@ -67,6 +67,9 @@ Esforço no processo de Ciências dos Dados:<br>
 
 # Cursos online - treinamento
 
+What's Cooking: Creating a Data Science Pipeline for Recipe Classification (35 min)
+- https://www.wolfram.com/wolfram-u/catalog/dat004/
+
 Multiparadigm Data Science (4 horas)
 - https://www.wolfram.com/wolfram-u/multiparadigm-data-science/
 
