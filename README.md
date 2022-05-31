@@ -10,7 +10,7 @@ Professores: https://itsrio.org/wp-content/uploads/2021/10/professores-positsuer
 
 # Processo:
 
-Ciências dos Dados:
+Ciências dos Dados em 5 etapas:
 
 <img src="img/Data-Science-Process.png" width="600px">
 
