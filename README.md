@@ -54,6 +54,7 @@ Cronograma (exemplo):
     - Estabelecer hipótese
     - Definir cronograma
     - Estudar bibliografia recomendada (abaixo) 
+    - Identificar e obter **fonte de dados**
 3. 2 semanas (14 dias)
 4. 6 semanas (30 dias)
 5. 2 semanas (14 dias)
