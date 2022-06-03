@@ -54,11 +54,11 @@ Cronograma (exemplo):
     - Estabelecer hipótese
     - Definir cronograma
     - Estudar bibliografia recomendada (abaixo) 
-    - Identificar e obter **fonte de dados**
 3. 2 semanas (14 dias)
-4. 6 semanas (30 dias)
-5. 2 semanas (14 dias)
-6. 1 semana (7 dias)
+    - Identificar e obter **fonte de dados**
+5. 6 semanas (30 dias)
+6. 2 semanas (14 dias)
+7. 1 semana (7 dias)
 
 <img src="img/cronograma-tcc.png">
 
