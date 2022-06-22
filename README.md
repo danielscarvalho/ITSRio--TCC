@@ -96,8 +96,11 @@ Mathematica
 <img src="https://www.wolfram.com/mathematica/img/overview/header-hero.png" width="600px">
 
 # Dica
-
+<!--
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">12 perguntas do artigo científico<br>Responder a essas 12 perguntas pode ajudar a estruturar seu raciocínio, tirar dúvidas que surgem durante sua elaboração e ainda para sair daquele bloqueio que SEMPRE chega, mais cedo ou mais tarde. Saiba mais: <a href="https://t.co/BVcoYJth0h">https://t.co/BVcoYJth0h</a><a href="https://twitter.com/aguiausp?ref_src=twsrc%5Etfw">@aguiausp</a> <a href="https://t.co/4SbxhlJKwC">pic.twitter.com/4SbxhlJKwC</a></p>&mdash; AGUIA (@aguiausp) <a href="https://twitter.com/aguiausp/status/1539706321439793152?ref_src=twsrc%5Etfw">June 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-->
+
+<img src="https://pbs.twimg.com/media/FV4Y4N-X0AADE-F?format=png&name=small" width="600px">
 
 # Bibliografia
 
