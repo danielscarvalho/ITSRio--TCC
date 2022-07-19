@@ -123,4 +123,12 @@ Programming with the Wolfram Language by Cliﬀ Hastings, Kelvin Mischo, Michael
 7. Code: The Hidden Language of Computer Hardware and Sofware by Charles Petzold, Microsoft
 Press, 2000
 
+# Extra
+
 9. Lawgorithm IA & Direito: https://lawgorithm.com.br/projeto/ia-direito/
+
+10. Coded Bias, 2020, 1 h 26, min: https://www.imdb.com/title/tt11394170/
+
+11. Terms and Conditions May Apply, 2013, 1 h 19 min: https://www.imdb.com/title/tt2084953/
+
+12. The Great Hack, 2019, 1 h 54 min: https://www.imdb.com/title/tt4736550/
