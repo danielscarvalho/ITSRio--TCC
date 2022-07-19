@@ -1,5 +1,5 @@
 # ITS-Rio
-## TCC - Turma 2 - IA - Computação
+## TCC - Turma 3 - IA - Computação
 ### Calendário
 
 - 22/08/2022: Divulgação dos orientadores pela coordenação acadêmica (o/a aluno/a receberá a indicação por e-mail). Durante o mês de setembro, o aluno deverá entrar contato com o professor para (1) informar o recorte do tema e a proposta de sumário e (2) enviar o projeto base de pesquisa;
