@@ -1,4 +1,5 @@
-Turma 2
+# ITS-Rio
+## TCC - Turma 2 - IA - Computação
 
 - 22/08/2022: Divulgação dos orientadores pela coordenação acadêmica (o/a aluno/a receberá a indicação por e-mail). Durante o mês de setembro, o aluno deverá entrar contato com o professor para (1) informar o recorte do tema e a proposta de sumário e (2) enviar o projeto base de pesquisa;
 - 15/10/2022: Recomenda-se que até esta data haja uma primeira comunicação entre o professor e o aluno para que sejam avaliados o projeto de pesquisa, o recorte escolhido e o problema de pesquisa.
