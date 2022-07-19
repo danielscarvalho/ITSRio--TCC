@@ -122,3 +122,5 @@ Programming with the Wolfram Language by Cliﬀ Hastings, Kelvin Mischo, Michael
 
 7. Code: The Hidden Language of Computer Hardware and Sofware by Charles Petzold, Microsoft
 Press, 2000
+
+9. Lawgorithm IA & Direito: https://lawgorithm.com.br/projeto/ia-direito/
