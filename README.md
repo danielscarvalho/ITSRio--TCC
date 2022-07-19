@@ -135,3 +135,7 @@ Extra:
 
 12. MIT's Moral Machine: http://moralmachine.mit.edu
 
+13. Stephen Wolfram Explains How Smart Contracts Will Work: https://www.youtube.com/watch?v=IddTrcE5Qwo
+
+14. What is a neural net exactly?: https://www.youtube.com/watch?v=IH4bdPxscyo
+
