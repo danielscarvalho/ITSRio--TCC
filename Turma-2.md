@@ -1,4 +1,6 @@
-# TCC - Turma 2
+# ITS-Rio
+## TCC - Turma 2 - IA - Computação
+### Calendário
 
 - 30/05/2022: Divulgação dos orientadores pela coordenação acadêmica. O/a aluno/a receberá a indicação por e-mail;
 - 05/09/2022: Prazo máximo para o envio do artigo (em versão adiantada) para o orientador. Em até 2 semanas, ele deverá tecer observações, pela última vez, sobre o texto;
