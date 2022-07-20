@@ -82,6 +82,12 @@ Extra (opcional):
 An Elementary Introduction to the Wolfram Language (6 horas)
 - https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/
 
+Stephen Wolfram Explains How Smart Contracts Will Work
+- https://www.youtube.com/watch?v=IddTrcE5Qwo
+
+What is a neural net exactly?
+- https://www.youtube.com/watch?v=IH4bdPxscyo
+
 # Ferramentas
 
 Wolfram Cloud
@@ -134,8 +140,4 @@ Extra:
 11. The Great Hack, 2019, 1 h 54 min: https://www.imdb.com/title/tt4736550/
 
 12. MIT's Moral Machine: http://moralmachine.mit.edu
-
-13. Stephen Wolfram Explains How Smart Contracts Will Work: https://www.youtube.com/watch?v=IddTrcE5Qwo
-
-14. What is a neural net exactly?: https://www.youtube.com/watch?v=IH4bdPxscyo
 
