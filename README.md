@@ -88,6 +88,9 @@ Stephen Wolfram Explains How Smart Contracts Will Work
 What is a neural net exactly?
 - https://www.youtube.com/watch?v=IH4bdPxscyo
 
+Inteligência Artificial | Expresso Futuro Com Ronaldo Lemos
+- https://www.youtube.com/watch?v=CM5_epaUje8
+
 # Ferramentas
 
 Wolfram Cloud
