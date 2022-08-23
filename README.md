@@ -68,10 +68,10 @@ Esforço no processo de Ciências dos Dados:<br>
 
 # Cursos online - Treinamento
 
-Stephen Wolfram Explains How Smart Contracts Will Work (10 min)
+Stephen Wolfram Explains How Smart Contracts Will Work (6 min)
 - https://www.youtube.com/watch?v=IddTrcE5Qwo
 
-What is a neural net exactly? (10 min)
+What is a neural net exactly? (6 min)
 - https://www.youtube.com/watch?v=IH4bdPxscyo
 
 Inteligência Artificial | Expresso Futuro Com Ronaldo Lemos (30 min)
