@@ -68,6 +68,15 @@ Esforço no processo de Ciências dos Dados:<br>
 
 # Cursos online - Treinamento
 
+Stephen Wolfram Explains How Smart Contracts Will Work (10 min)
+- https://www.youtube.com/watch?v=IddTrcE5Qwo
+
+What is a neural net exactly? (10 min)
+- https://www.youtube.com/watch?v=IH4bdPxscyo
+
+Inteligência Artificial | Expresso Futuro Com Ronaldo Lemos (30 min)
+- https://www.youtube.com/watch?v=CM5_epaUje8
+
 What's Cooking: Creating a Data Science Pipeline for Recipe Classification (35 min)
 - https://www.wolfram.com/wolfram-u/catalog/dat004/
 
@@ -81,15 +90,6 @@ Extra (opcional):
 
 An Elementary Introduction to the Wolfram Language (6 horas)
 - https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/
-
-Stephen Wolfram Explains How Smart Contracts Will Work
-- https://www.youtube.com/watch?v=IddTrcE5Qwo
-
-What is a neural net exactly?
-- https://www.youtube.com/watch?v=IH4bdPxscyo
-
-Inteligência Artificial | Expresso Futuro Com Ronaldo Lemos
-- https://www.youtube.com/watch?v=CM5_epaUje8
 
 # Ferramentas
 
