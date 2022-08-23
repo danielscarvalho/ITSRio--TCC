@@ -111,6 +111,8 @@ Mathematica
 
 <img src="https://pbs.twimg.com/media/FV4Y4N-X0AADE-F?format=png&name=small" width="600px">
 
+![How to apply scientific method to evaluating new tech](https://twitter.com/StartupNScaleup/status/1561451376684978177/photo/1)
+
 # Bibliografia
 
 1. Metodologia Científica by Amado L. Cervo, Pedro A. Bervian, Roberto da Silva
