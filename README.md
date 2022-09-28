@@ -39,7 +39,7 @@ Pesquisa científica:
 
 # TCC
 
-Principais etapas do TCC com base em Ciências dos Dados (computação) e a metodologia científica:
+Principais etapas do TCC com base em Ciências dos Dados (computação) e a metodologia científica, para graduação ou pós-graduação:
 
 1. Estabelecer questão de pesquisa - estabelecer hipótese (ASK/QUESTION)
 2. Identificar e obter fontes de dados (GET/WRANGLE)
