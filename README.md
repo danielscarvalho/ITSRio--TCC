@@ -134,7 +134,8 @@ Programming with the Wolfram Language by Cliﬀ Hastings, Kelvin Mischo, Michael
 7. Code: The Hidden Language of Computer Hardware and Sofware by Charles Petzold, Microsoft
 Press, 2000
 
-8. Inteligência Artificial e Big Data by Chiara de Teffé e Sérgio Branco: https://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
+8. Inteligência Artificial e Big Data by Chiara de Teffé e Sérgio Branco
+    -     - https://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
 
 Extra:
 
