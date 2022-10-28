@@ -52,7 +52,7 @@ Cronograma (exemplo):
 1. 1 semana (7 dias)
     - Estabelecer questão de pesquisa
     - Estabelecer hipótese
-    - Definir cronograma
+    - Definir cronogramahttps://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
     - Estudar bibliografia recomendada (abaixo) 
 3. 2 semanas (14 dias)
     - Identificar e obter **fonte de dados**
@@ -66,7 +66,7 @@ Esforço no processo de Ciências dos Dados:<br>
 &emsp;◼ 80% do trabalho: Questionar (escopo), Garimpar dados e Explorar<br>
 &emsp;◼ 20% do trabalho: Modelagem (IA, ML) e Comunicação<br>
 
-# Cursos online - Treinamento
+# Cursos online - Treinamentohttps://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
 
 Stephen Wolfram Explains How Smart Contracts Will Work (6 min)
 - https://www.youtube.com/watch?v=IddTrcE5Qwo
@@ -133,6 +133,8 @@ Programming with the Wolfram Language by Cliﬀ Hastings, Kelvin Mischo, Michael
 
 7. Code: The Hidden Language of Computer Hardware and Sofware by Charles Petzold, Microsoft
 Press, 2000
+
+8. Inteligência Artificial e Big Data by Chiara de Teffé e Sérgio Branco: https://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
 
 Extra:
 
