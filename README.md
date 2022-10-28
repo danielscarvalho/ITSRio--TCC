@@ -135,7 +135,7 @@ Programming with the Wolfram Language by Cliﬀ Hastings, Kelvin Mischo, Michael
 Press, 2000
 
 8. Inteligência Artificial e Big Data by Chiara de Teffé e Sérgio Branco
-    -     - https://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
+    - https://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
 
 Extra:
 
