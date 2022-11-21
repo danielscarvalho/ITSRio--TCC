@@ -113,7 +113,7 @@ Mathematica
 
 <img src="https://pbs.twimg.com/media/FatjsOdXwAAf_UF?format=jpg&name=small" width="600px" alt="How to apply scientific method to evaluating new tech">
 
-<img src="https://twitter.com/vardi/status/1594711231826432002/photo/1">
+<img src="https://pbs.twimg.com/media/FiGNYf-WQAIM_Dg?format=jpg&name=small">
 
 # Bibliografia
 
