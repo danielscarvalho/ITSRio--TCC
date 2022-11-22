@@ -154,6 +154,5 @@ Extra:
 
 12. MIT's Moral Machine: http://moralmachine.mit.edu
 
-13. Inteligência Artificial e Big Data: https://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
  
 
