@@ -60,6 +60,8 @@ Cronograma (exemplo):
 6. 2 semanas (14 dias)
 7. 1 semana (7 dias)
 
+SIGILO: Dados sensíveis como nome, endereço, empresa, juízes, geo localização, etc... podem ser omitidos os mascarados para evitar conflitos com a LGPD. Informações como sexo, idade, cidade, entre outros são importantes para a pesquisa.
+
 <img src="img/cronograma-tcc.png">
 
 Esforço no processo de Ciências dos Dados:<br>
