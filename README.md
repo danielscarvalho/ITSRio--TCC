@@ -2,6 +2,7 @@
 ITSRio TCC (Trabalho de Conclusão de Curso) - Computação
 
 Pós-graduação em Direito Digital - ITSRio - UERJ
+
 - https://itsrio.org/pt/cursos/pos-graduacao/
 
 Orientação de TCC - Pós-Gratuação
@@ -68,7 +69,7 @@ Esforço no processo de Ciências dos Dados:<br>
 &emsp;◼ 80% do trabalho: Questionar (escopo), Garimpar dados e Explorar<br>
 &emsp;◼ 20% do trabalho: Modelagem (IA, ML) e Comunicação<br>
 
-# Cursos online - Treinamentohttps://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
+# Cursos online - Treinamento
 
 Stephen Wolfram Explains How Smart Contracts Will Work (6 min)
 - https://www.youtube.com/watch?v=IddTrcE5Qwo
@@ -152,4 +153,7 @@ Extra:
 11. The Great Hack, 2019, 1 h 54 min: https://www.imdb.com/title/tt4736550/
 
 12. MIT's Moral Machine: http://moralmachine.mit.edu
+
+13. Inteligência Artificial e Big Data: https://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
+ 
 
