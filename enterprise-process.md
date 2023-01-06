@@ -34,3 +34,13 @@ Estes processos dividem o projeto em 4 fáses básicas:
 - [Unified Process](https://en.wikipedia.org/wiki/Unified_Process)
 
 ## Engenharia de Software
+
+## Extreme Programming (XP)
+
+<img src="https://jdmeier.com/wp-content/uploads/2019/01/image-228.png" width="600px">
+
+## Kamban
+
+## Agile
+
+
