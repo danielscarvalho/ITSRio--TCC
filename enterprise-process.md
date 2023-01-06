@@ -43,6 +43,9 @@ Estes processos dividem o projeto em 4 fáses básicas:
 
 <img src="https://d112uwirao0vo9.cloudfront.net/wp-content/uploads/2018/11/Kanban-Development-Board.png" width="600px">
 
+- [Kanban University](https://kanban.university/)
+- [O que é um quadro Kanban?](https://www.digite.com/pt-br/kanban/quadro-kanban/)
+
 ## Agile
 
 
