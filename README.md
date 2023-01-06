@@ -41,7 +41,7 @@ Pesquisa científica:
 4. Design Thinking & Machine Learning (IA)
 
 <img src="img/DT-ML.webp" width="600px">
-Fonte: https://infocus.dellemc.com/william_schmarzo/design-thinking-future-proof-yourself-from-ai/
+Fonte: https://www.datasciencecentral.com/design-thinking-future-proof-yourself-from-ai/
 
 # TCC
 
