@@ -9,20 +9,21 @@ Orientação de TCC - Pós-Gratuação
 
 Professores: https://itsrio.org/wp-content/uploads/2021/10/professores-positsuerj_2021.2.pdf
 
-# Processo
+# Processos
 
-Ciências dos Dados, em 5 etapas:
+1. Ciências dos Dados, em 5 etapas:
 
 <img src="img/Data-Science-Process.png" width="600px">
 
-Wolfram Multiparadigm Data Science, em 5 etapas:
+2. Wolfram Multiparadigm Data Science, em 5 etapas:
 
 - https://www.mpdatascience.com/MultiparadigmDataScienceBrochure.pdf
 
 <img src="https://www.wolfram.com/wolfram-u/img/courses/dat103-course.png" width="600px">
 <img src="https://content.wolfram.com/uploads/sites/39/2019/09/mpds-workflow.png" width="600px">
 
-Metodologia científica:
+3. Metodologia científica:
+
 https://github.com/danielscarvalho/ITSRio-TCC
 <img src="img/metodologia-cientifica0.jpg" width="600px">
 <img src="img/metodologia-cientifica1.jpg" width="600px">
@@ -38,15 +39,20 @@ Pesquisa científica:
       - ML (Machine Learning - Aprendizagem de Máquina)
   - Validação da hipótese
 
+4. Design Thinking & Machine Learning (IA)
+
+<img src="img/DT-ML.webp" width="600px">
+Fonte: https://infocus.dellemc.com/william_schmarzo/design-thinking-future-proof-yourself-from-ai/
+
 # TCC
 
 Principais etapas do TCC com base em Ciências dos Dados (computação) e a metodologia científica, para graduação ou pós-graduação:
 
-1. Estabelecer questão de pesquisa - estabelecer hipótese (ASK/QUESTION)
-2. Identificar e obter fontes de dados (GET/WRANGLE)
-3. Combinar e limpar dados (EXPLORE/EXPLORE)
-4. Modelar - validar hipótese - algoritmos e IA/ML, math/estatística (MODEL/ANALYZE)
-5. Visualizar e reportar (COMMUNICATE/COMMUNICATE)
+1. Estabelecer questão de pesquisa - estabelecer hipótese (ASK/QUESTION) - EMPATIZAR
+2. Identificar e obter fontes de dados (GET/WRANGLE) - DEFINIR
+3. Combinar e limpar dados (EXPLORE/EXPLORE) - IDEAR
+4. Modelar - validar hipótese - algoritmos e IA/ML, math/estatística (MODEL/ANALYZE) - PROTOTIPAR
+5. Visualizar e reportar (COMMUNICATE/COMMUNICATE) - TESTAR/PROBAR
 
 Cronograma (exemplo):
 
