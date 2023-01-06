@@ -39,7 +39,9 @@ Estes processos dividem o projeto em 4 fáses básicas:
 
 <img src="https://jdmeier.com/wp-content/uploads/2019/01/image-228.png" width="600px">
 
-## Kamban
+## Kanban
+
+<img src="https://d112uwirao0vo9.cloudfront.net/wp-content/uploads/2018/11/Kanban-Development-Board.png" width="600px">
 
 ## Agile
 
