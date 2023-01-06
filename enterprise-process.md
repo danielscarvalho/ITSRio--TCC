@@ -19,7 +19,7 @@ Estes processos dividem o projeto em 4 fáses básicas:
 
 ## RUP - IBM - Desenvolvimento de Software
 
-<img src="https://pt.wikipedia.org/wiki/IBM_Rational_Unified_Process#/media/Ficheiro:Fases_do_RUP_-_portugues.jpg" width="600px">
+<img src="https://www.testbytes.net/wp-content/uploads/2019/05/rup-org-1.jpg" width="600px">
 
 - [Rational Unified Process](http://walderson.com/IBM/RUP7/LargeProjects/#core.base_rup/guidances/supportingmaterials/welcome_2BC5187F.html)
 - [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process)
