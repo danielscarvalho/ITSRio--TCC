@@ -23,7 +23,7 @@ Wolfram Multiparadigm Data Science, em 5 etapas:
 <img src="https://content.wolfram.com/uploads/sites/39/2019/09/mpds-workflow.png" width="600px">
 
 Metodologia científica:
-
+https://github.com/danielscarvalho/ITSRio-TCC
 <img src="img/metodologia-cientifica0.jpg" width="600px">
 <img src="img/metodologia-cientifica1.jpg" width="600px">
 
@@ -53,7 +53,7 @@ Cronograma (exemplo):
 1. 1 semana (7 dias)
     - Estabelecer questão de pesquisa
     - Estabelecer hipótese
-    - Definir cronogramahttps://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
+    - Definir cronograma
     - Estudar bibliografia recomendada (abaixo) 
 3. 2 semanas (14 dias)
     - Identificar e obter **fonte de dados**
@@ -61,7 +61,7 @@ Cronograma (exemplo):
 6. 2 semanas (14 dias)
 7. 1 semana (7 dias)
 
-SIGILO: Dados sensíveis como nome, endereço, empresa, juízes, geo localização, etc... podem ser omitidos os mascarados para evitar conflitos com a LGPD. Informações como sexo, idade, cidade, entre outros são importantes para a pesquisa.
+SIGILO: Dados sensíveis como nome, endereço, empresa, juízes, geo localização, etc... podem ser omitidos os mascarados para evitar conflitos com a LGPD. Informações como sexo, idade, cidade, entre outros são importantes para a pesquisa (meta dados).
 
 <img src="img/cronograma-tcc.png">
 
