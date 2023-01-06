@@ -154,15 +154,15 @@ Press, 2000
 
 Extra:
 
-8. Lawgorithm IA & Direito: https://lawgorithm.com.br/projeto/ia-direito/
+1. Lawgorithm IA & Direito: https://lawgorithm.com.br/projeto/ia-direito/
 
-9. Coded Bias, 2020, 1 h 26 min: https://www.imdb.com/title/tt11394170/
+2. Coded Bias, 2020, 1 h 26 min: https://www.imdb.com/title/tt11394170/
 
-10. Terms and Conditions May Apply, 2013, 1 h 19 min: https://www.imdb.com/title/tt2084953/
+3. Terms and Conditions May Apply, 2013, 1 h 19 min: https://www.imdb.com/title/tt2084953/
 
-11. The Great Hack, 2019, 1 h 54 min: https://www.imdb.com/title/tt4736550/
+4. The Great Hack, 2019, 1 h 54 min: https://www.imdb.com/title/tt4736550/
 
-12. MIT's Moral Machine: http://moralmachine.mit.edu
+5. MIT's Moral Machine: http://moralmachine.mit.edu
 
  
 
