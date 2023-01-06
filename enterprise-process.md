@@ -15,6 +15,8 @@ Estes processos dividem o projeto em 4 fáses básicas:
 
 <img src="https://www.project-management-prepcast.com/images/pillar/PMBOK6_Tab_1-4.jpg" width="600px">
 
+[PMI - Project Management Institute](https://www.pmi.org/brasil)
+
 ## RUP - IBM - Desenvolvimento de Software
 
 <img src="https://pt.wikipedia.org/wiki/IBM_Rational_Unified_Process#/media/Ficheiro:Fases_do_RUP_-_portugues.jpg" width="600px">
