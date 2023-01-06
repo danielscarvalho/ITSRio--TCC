@@ -125,31 +125,31 @@ Mathematica
 
 # Bibliografia
 
-1. Metodologia Científica by Amado L. Cervo, Pedro A. Bervian, Roberto da Silva
+1. *Metodologia Científica* by Amado L. Cervo, Pedro A. Bervian, Roberto da Silva
 
-2. Introduction to Machine Learning by Etienne Bernard, 2022:
+2. *Introduction to Machine Learning* by Etienne Bernard, 2022:
     - https://www.wolfram.com/language/introduction-machine-learning/
 
-3. Beginning Mathematica and Wolfram for Data Science: Applications in Data Analysis, Machine Learning, and Neural Networks by Jalil Villalobos Alva, 2021
+3. *Beginning Mathematica and Wolfram for Data Science: Applications in Data Analysis*, Machine Learning, and Neural Networks by Jalil Villalobos Alva, 2021
 
-4. Elementary Introduction to Wolfram Language by Stephen Wolfram:
+4. *Elementary Introduction to Wolfram Language* by Stephen Wolfram:
     - https://www.wolfram.com/language/elementary-introduction/2nd-ed/
 
-5. Inteligência artificial: avanços e tendências by Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri, USP, Instituto de Estudos Avançados, 2021
+5. *Inteligência artificial: avanços e tendências* by Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri, USP, Instituto de Estudos Avançados, 2021
     - https://jornal.usp.br/cultura/inteligencia-artificial-ganha-e-book-multidisciplinar/
 
-6. Hands-on Start to Wolfram Mathematica and
-Programming with the Wolfram Language by Cliﬀ Hastings, Kelvin Mischo, Michael Morrison, Third Edition, Wolfram Media, 2020
+6. *Hands-on Start to Wolfram Mathematica and
+Programming with the Wolfram Language* by Cliﬀ Hastings, Kelvin Mischo, Michael Morrison, Third Edition, Wolfram Media, 2020
 
-7. Code: The Hidden Language of Computer Hardware and Sofware by Charles Petzold, Microsoft
+7. *Code: The Hidden Language of Computer Hardware and Sofware* by Charles Petzold, Microsoft
 Press, 2000
 
-8. Inteligência Artificial e Big Data by Chiara de Teffé e Sérgio Branco, ITS Rio, 2022
+8. *Inteligência Artificial e Big Data* by Chiara de Teffé e Sérgio Branco, ITS Rio, 2022
     - https://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
     
-9. A Magia do Design Thinking: Um kit de ferramentas para o crescimento rápido da sua empresa, Jeanne Liedtka, Tim Ogilvie, Atlas Book, 2019
+9. *A Magia do Design Thinking: Um kit de ferramentas para o crescimento rápido da sua empresa*, Jeanne Liedtka, Tim Ogilvie, Atlas Book, 2019
 
-10. Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days, Jake Knapp, John Zeratsky, Simon & Schuster, 2016
+10. *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days*, Jake Knapp, John Zeratsky, Simon & Schuster, 2016
     - https://www.thesprintbook.com/
 
 Extra:
