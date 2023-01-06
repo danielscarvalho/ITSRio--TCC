@@ -51,4 +51,8 @@ Estes processos dividem o projeto em 4 fáses básicas:
 
 ## Agile
 
+<img src="https://agilers.com.br/wp-content/uploads/2022/07/Agil-e-Incremental.png"  width="600px">
 
+<img src="https://agilers.com.br/wp-content/uploads/2022/07/Entrega-de-valor.png"  width="600px">
+
+<img src="https://eoiinconnect.com/wp-content/uploads/2020/10/Agile-Methodology-Infographic-v2-1024x353.jpg"  width="600px">
