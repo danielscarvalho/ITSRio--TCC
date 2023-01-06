@@ -146,6 +146,11 @@ Press, 2000
 
 8. Inteligência Artificial e Big Data by Chiara de Teffé e Sérgio Branco, ITS Rio, 2022
     - https://itsrio.org/pt/publicacoes/inteligencia-artificial-e-big-data/
+    
+9. A Magia do Design Thinking: Um kit de ferramentas para o crescimento rápido da sua empresa, Jeanne Liedtka, Tim Ogilvie, Atlas Book, 2019
+
+10. Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days, Jake Knapp, John Zeratsky, Simon & Schuster, 2016
+    - https://www.thesprintbook.com/
 
 Extra:
 
