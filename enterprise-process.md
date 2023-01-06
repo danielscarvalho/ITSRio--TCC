@@ -11,8 +11,24 @@ Estes processos dividem o projeto em 4 fáses básicas:
 
 ## Gestão de Projeto - PMI
 
+<img src="https://images.ukdissertations.com/4/0003706.009.jpg" width="600px">
+
+<img src="https://www.project-management-prepcast.com/images/pillar/PMBOK6_Tab_1-4.jpg" width="600px">
+
 ## RUP - IBM - Desenvolvimento de Software
 
+<img src="https://en.wikipedia.org/wiki/Rational_Unified_Process#/media/File:Development-iterative.png" width="600px">
+
+- [Rational Unified Process](http://walderson.com/IBM/RUP7/LargeProjects/#core.base_rup/guidances/supportingmaterials/welcome_2BC5187F.html)
+- [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process)
+
 ## Unified Process - Desenvolvimento de Software
+
+<img src="https://user-images.githubusercontent.com/916663/211067183-a3c9717f-99a7-4889-9eed-047f92f4f52c.png" width="600px">
+
+<img src="https://en.wikipedia.org/wiki/Unified_Process#/media/File:UnifiedProcessProjectProfile20060708.png" width="600px">
+
+- 
+- [Unified Process](https://en.wikipedia.org/wiki/Unified_Process)
 
 ## Engenharia de Software
