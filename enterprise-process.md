@@ -26,7 +26,7 @@ Estes processos dividem o projeto em 4 fáses básicas:
 
 <img src="https://user-images.githubusercontent.com/916663/211067183-a3c9717f-99a7-4889-9eed-047f92f4f52c.png" width="600px">
 
-<img src="https://en.wikipedia.org/wiki/Unified_Process#/media/File:UnifiedProcessProjectProfile20060708.png" width="600px">
+<img src="https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/customcategories/resources/dprpl001.gif" width="600px">
 
 - 
 - [Unified Process](https://en.wikipedia.org/wiki/Unified_Process)
