@@ -1,6 +1,6 @@
 # Enterprise Process
 
-Outros processos de desenvolvimento de projetos corporativos (business)
+Outros processos de desenvolvimento de projetos corporativos (business). Todos estes processos são bem conhecidos, maduros e utilizados amplamente em empresas.
 
 Estes processos dividem o projeto em 4 fáses básicas:
 
