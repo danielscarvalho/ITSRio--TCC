@@ -24,7 +24,6 @@ Professores: https://itsrio.org/wp-content/uploads/2021/10/professores-positsuer
 
 3. Metodologia científica:
 
-https://github.com/danielscarvalho/ITSRio-TCC
 <img src="img/metodologia-cientifica0.jpg" width="600px">
 <img src="img/metodologia-cientifica1.jpg" width="600px">
 
