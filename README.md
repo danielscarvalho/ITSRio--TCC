@@ -74,7 +74,7 @@ Esforço no processo de Ciências dos Dados:<br>
 &emsp;◼ 80% do trabalho: Questionar (escopo), Garimpar dados e Explorar<br>
 &emsp;◼ 20% do trabalho: Modelagem (IA, ML) e Comunicação<br>
 
-# Cursos online - Treinamento
+# Vídeos rápidos online - Treinamento
 
 Stephen Wolfram Explains How Smart Contracts Will Work (6 min)
 - https://www.youtube.com/watch?v=IddTrcE5Qwo
