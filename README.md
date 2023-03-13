@@ -152,6 +152,9 @@ Press, 2000
 10. *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days*, Jake Knapp, John Zeratsky, Simon & Schuster, 2016
     - https://www.thesprintbook.com/
 
+11. *What Is ChatGPT Doing ... and Why Does It Work?*, Stephen Wolfram, 2023
+    - https://www.amazon.com/What-ChatGPT-Doing-Does-Work/dp/1579550819
+
 Extra:
 
 1. Lawgorithm IA & Direito: https://lawgorithm.com.br/projeto/ia-direito/
