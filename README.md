@@ -55,13 +55,13 @@ Principais etapas do TCC com base em Ciências dos Dados (computação) e a meto
 
 View as a table:
 
-|#|Descrição|Data Science|Multiparadigm Data Science (Wolfram)|Design Thinking
-|---	|---	|---	|---	|
-|1|Estabelecer questão de pesquisa - estabelecer hipótese|ASK|QUESTION|EMPATIZAR
-|2|Identificar e obter fontes de dados|GET|WRANGLE|DEFINIR
-|3|Combinar e limpar dados|EXPLORE|EXPLORE|IDEAR
-|4|Modelar - validar hipótese - algoritmos e IA/ML, math/estatística|MODEL|ANALYZE|PROTOTIPAR
-|5|Visualizar e reportar|COMMUNICATE|COMMUNICATE|TESTAR|PROBAR
+| # | Descrição | Data Science | Multiparadigm Data Science (Wolfram) | Design Thinking |
+|---	|---	|---	|---	|--- |
+| 1 | Estabelecer questão de pesquisa - estabelecer hipótese | ASK | QUESTION | EMPATIZAR |
+| 2 | Identificar e obter fontes de dados | GET | WRANGLE | DEFINIR |
+| 3 | Combinar e limpar dados | EXPLORE | EXPLORE | IDEAR |
+| 4 | Modelar - validar hipótese - algoritmos e IA/ML, math/estatística | MODEL | ANALYZE | PROTOTIPAR | 
+| 5 | Visualizar e reportar | COMMUNICATE | COMMUNICATE | TESTAR | PROBAR | 
 
 Cronograma (exemplo):
 
