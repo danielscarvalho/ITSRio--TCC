@@ -133,6 +133,8 @@ Mathematica
 
 <img src="https://pbs.twimg.com/media/FiGNYf-WQAIM_Dg?format=jpg&name=small">
 
+<img src="https://pbs.twimg.com/media/GCqKbD_bMAEJWeJ?format=jpg&name=small">
+
 # Bibliografia
 
 1. *Metodologia Científica* by Amado L. Cervo, Pedro A. Bervian, Roberto da Silva
