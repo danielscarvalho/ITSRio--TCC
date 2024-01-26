@@ -182,7 +182,7 @@ Press, 2000
 
 5. MIT's Moral Machine: http://moralmachine.mit.edu
 
-# Outros processos corporativos
+# Processos corporativos
 
 Gosto de comparar processos de engenharia de software com gestão de projetos, amplamente utilizados em projetos corporativos.
 Note nos diagramas que há 4 grandes estapas no PMI e no RUP/UP (Unified Process), e que o esforço é distribuído igualmente entre PMI e UP:
@@ -197,3 +197,15 @@ Note nos diagramas que há 4 grandes estapas no PMI e no RUP/UP (Unified Process
 [PMI - Project Management Institute](https://www.pmi.org/)
 
 ![image](https://github.com/danielscarvalho/ITSRio-TCC/assets/916663/30d48208-75b6-4864-beed-a9daf2e9b632)
+
+# Diagramas
+
+Diagramas que gosto de usar em projetos de sistemas e ciências dos dados (se applicavel). É a documentação mínima adequada para análise de sistemas, levantamento de requisitos, desenvolvimento web ou mobile, foco corporativo.
+
+- BPMN
+- Caso de Uso
+- Modelo de Dados
+- WBS
+- Gant Chart
+- Kanban
+- GUI draft (UI Design - workflow)
