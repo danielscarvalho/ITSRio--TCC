@@ -167,7 +167,7 @@ Press, 2000
 11. *What Is ChatGPT Doing ... and Why Does It Work?*, Stephen Wolfram, 2023
     - https://www.amazon.com/What-ChatGPT-Doing-Does-Work/dp/1579550819
 
-12. Query: Getting Information from Data with the Wolfram Language, Seth J. Chandler, 2023
+12. *Query: Getting Information from Data with the Wolfram Language*, Seth J. Chandler, Wolfram Media, 2023
     - https://www.wolfram.com/language/query-getting-information-from-data-with-the-wolfram-language/
 
 Extra:
