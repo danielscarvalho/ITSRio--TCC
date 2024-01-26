@@ -170,7 +170,7 @@ Press, 2000
 12. *Query: Getting Information from Data with the Wolfram Language*, Seth J. Chandler, Wolfram Media, 2023
     - https://www.wolfram.com/language/query-getting-information-from-data-with-the-wolfram-language/
 
-Extra:
+# Extra
 
 1. Lawgorithm IA & Direito: https://lawgorithm.com.br/projeto/ia-direito/
 
@@ -182,5 +182,17 @@ Extra:
 
 5. MIT's Moral Machine: http://moralmachine.mit.edu
 
- 
+# Outros processos corporativos
+
+Gosto de comparar processos de engenharia de software com gestão de projetos, amplamente utilizados em projetos corporativos.
+Note nos diagramas que há 4 grandes estapas no PMI e no RUP/UP (Unified Process), e que o esforço é distribuído igualmente entre PMI e UP:
+
+[UP - Unified Process](https://en.wikipedia.org/wiki/Unified_Process)
+
+<img src="https://pt.wikipedia.org/wiki/Processo_unificado#/media/Ficheiro:Development-iterative.png" width="600px">
+<img src="https://en.wikipedia.org/wiki/Unified_Process#/media/File:UnifiedProcessProjectProfile20060708.png" width="600px">
+
+[PMI - Project Management Institute](https://www.pmi.org/)
+
+<img src="https://www.researchgate.net/profile/Marco-Antonio-Amaral-Feris/publication/301959526/figure/fig21/AS:429072472907781@1479310258246/Typical-project-lifecycle-adapted-from-PMI-2013.png" width="600px">
 
