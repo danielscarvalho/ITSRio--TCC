@@ -202,10 +202,10 @@ Note nos diagramas que há 4 grandes estapas no PMI e no RUP/UP (Unified Process
 
 Diagramas que gosto de usar em projetos de sistemas e ciências dos dados (se applicavel). É a documentação mínima adequada para análise de sistemas, levantamento de requisitos, desenvolvimento web ou mobile, foco corporativo.
 
-- BPMN
-- Caso de Uso
-- Modelo de Dados
-- WBS
-- Gantt Chart
-- Kanban
-- GUI draft (UI Design - workflow)
+- BPMN - Bizagi Modeler
+- Caso de Uso - Doc + Gráfico 2D (Apresentação)
+- Modelo de Dados - MySQL Workbench
+- WBS - Gráfico 2D
+- Gantt Chart - Planilha ou Gráfico 2D
+- Kanban - Trello
+- UI Design (GUI draft - workflow) - Figma
