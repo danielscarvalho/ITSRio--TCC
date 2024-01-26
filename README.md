@@ -206,6 +206,6 @@ Diagramas que gosto de usar em projetos de sistemas e ciências dos dados (se ap
 - Caso de Uso
 - Modelo de Dados
 - WBS
-- Gant Chart
+- Gantt Chart
 - Kanban
 - GUI draft (UI Design - workflow)
