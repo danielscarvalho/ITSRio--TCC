@@ -198,7 +198,7 @@ Note nos diagramas que há 4 grandes estapas no PMI e no RUP/UP (Unified Process
 
 ![image](https://github.com/danielscarvalho/ITSRio-TCC/assets/916663/30d48208-75b6-4864-beed-a9daf2e9b632)
 
-# Diagramas
+# Diagramas e Documentação
 
 Diagramas que gosto de usar em projetos de sistemas e ciências dos dados (se applicavel). É a documentação mínima adequada para análise de sistemas, levantamento de requisitos, desenvolvimento web ou mobile, foco corporativo.
 
