@@ -190,6 +190,7 @@ Note nos diagramas que há 4 grandes estapas no PMI e no RUP/UP (Unified Process
 [UP - Unified Process](https://en.wikipedia.org/wiki/Unified_Process)
 
 ![image](https://github.com/danielscarvalho/ITSRio-TCC/assets/916663/13543309-62a3-424e-9e57-8ce9a453c802)
+
 ![image](https://github.com/danielscarvalho/ITSRio-TCC/assets/916663/b9013171-664c-4b33-a313-7f401894ffd5)
 
 
