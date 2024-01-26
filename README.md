@@ -189,10 +189,10 @@ Note nos diagramas que há 4 grandes estapas no PMI e no RUP/UP (Unified Process
 
 [UP - Unified Process](https://en.wikipedia.org/wiki/Unified_Process)
 
-<img src="https://pt.wikipedia.org/wiki/Processo_unificado#/media/Ficheiro:Development-iterative.png" width="600px">
-<img src="https://en.wikipedia.org/wiki/Unified_Process#/media/File:UnifiedProcessProjectProfile20060708.png" width="600px">
+![image](https://github.com/danielscarvalho/ITSRio-TCC/assets/916663/13543309-62a3-424e-9e57-8ce9a453c802)
+![image](https://github.com/danielscarvalho/ITSRio-TCC/assets/916663/b9013171-664c-4b33-a313-7f401894ffd5)
+
 
 [PMI - Project Management Institute](https://www.pmi.org/)
 
-<img src="https://www.researchgate.net/profile/Marco-Antonio-Amaral-Feris/publication/301959526/figure/fig21/AS:429072472907781@1479310258246/Typical-project-lifecycle-adapted-from-PMI-2013.png" width="600px">
-
+![image](https://github.com/danielscarvalho/ITSRio-TCC/assets/916663/30d48208-75b6-4864-beed-a9daf2e9b632)
