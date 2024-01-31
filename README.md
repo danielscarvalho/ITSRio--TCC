@@ -170,6 +170,8 @@ Press, 2000
 12. *Query: Getting Information from Data with the Wolfram Language*, Seth J. Chandler, Wolfram Media, 2023
     - https://www.wolfram.com/language/query-getting-information-from-data-with-the-wolfram-language/
 
+13. *How to Write a Better Thesis*, David Evans, Paul Gruba, Justin Zobel, Springer, 2014
+
 # Extra
 
 1. Lawgorithm IA & Direito: https://lawgorithm.com.br/projeto/ia-direito/
