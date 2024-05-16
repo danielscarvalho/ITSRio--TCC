@@ -200,13 +200,13 @@ Note nos diagramas que há 4 grandes estapas no PMI e no RUP/UP (Unified Process
 
 ![image](https://github.com/danielscarvalho/ITSRio-TCC/assets/916663/30d48208-75b6-4864-beed-a9daf2e9b632)
 
-PMI - PMBOK - Também tem 4 etapas principais que podemos comparar ao RUP:
+Gestão de projetos corporativos com PMI - PMBOK - Também tem 4 etapas principais que podemos comparar ao RUP:
 
-Organização do projeto no tempo:
+Organização do projeto no tempo:<br>
 ![image](https://github.com/danielscarvalho/ITSRio-TCC/assets/916663/fc5d14d6-1d7e-4d92-be29-f246aff7404c)
 
 
-Recursos durante o projeto:
+Recursos durante o projeto:<br>
 ![image](https://github.com/danielscarvalho/ITSRio-TCC/assets/916663/a127e3f5-5a37-43d7-9c99-1b2eb154f872)
 
 
