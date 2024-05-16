@@ -211,3 +211,4 @@ Diagramas que gosto de usar em projetos de sistemas e ciências dos dados (se ap
 - Gantt Chart - Planilha ou Gráfico 2D
 - Kanban - Trello
 - UI Design (GUI draft - workflow) - Figma
+- Linguagem de modelagem unificada (UML) - Usar diagramas que forem relevantes ao projeto
